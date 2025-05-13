@@ -38,23 +38,25 @@ mydots/
 
 ---
 
+
+---
+
 ## 🛠️ Setup Instructions
 
 1. Clone this repo:
    ```bash
    git clone https://github.com/YasirFadhil/mydots.git
    cd mydots
-````
+   ```
+
 
 2. Run the installer script:
-
    ```bash
    chmod +x install.sh
    ./install.sh
    ```
 
 3. Copy the configurations you want:
-
    ```bash
    cp -r hypr rofi wlogout ~/.config/
    ```
