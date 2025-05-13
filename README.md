@@ -93,4 +93,6 @@ You can automate all with the `install.sh` provided.
 This setup was built and tested on **EndeavourOS** with **Hyprland** and some GNOME utilities.
 Feel free to fork, use, or modify any part of this configuration.
 
+After booted into hyprland open hyprpanel dashboard on the top left screen and import the ```hyprpanel.json``` 
+
 ---
