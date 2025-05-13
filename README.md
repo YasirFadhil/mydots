@@ -43,6 +43,9 @@ mydots/
 
 ## 🛠️ Setup Instructions
 
+> ⚠️ Make sure [Chaotic AUR](https://aur.chaotic.cx/) repo is already added in your `pacman.conf`.
+
+
 1. Clone this repo:
    ```bash
    git clone https://github.com/YasirFadhil/mydots.git
