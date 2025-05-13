@@ -1,18 +1,3 @@
-Oke Yassir, ini dia `README.md` lengkap untuk repo `mydots` kamu — versi akhir yang sudah mencakup:
-
-* Deskripsi proyek
-* Fitur
-* Struktur folder
-* Instruksi install & setup
-* Preview screenshot
-* Lisensi
-* Badges
-
----
-
-### 📄 `README.md`
-
-```markdown
 # mydots 🧩
 
 ![Repo Size](https://img.shields.io/github/repo-size/YasirFadhil/mydots?style=flat-square)
